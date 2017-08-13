@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # coding: utf-8
 """
-.. module:: VolumetricControlService
+
 
    :platform: Unix, Windows
    :synopsis: Probleme donné : surveillez un terrain en entier avec des capteurs et minimiser la consomation d'energie
